@@ -1,0 +1,5 @@
+Proposed solution:
+We are creating software for the rehabilitation center, which will be handling the following functions:
+> Automatic allocation of cases to the therapist based on criteria such as therapist expertise, current workload, and availability, and an email notification will be sent to the therapist and supervisor about new case assignments.
+> The therapist will draft the therapy plan customized for the patient and the supervisor will review and approve it after providing feedback for necessary adjustment. 
+> 
